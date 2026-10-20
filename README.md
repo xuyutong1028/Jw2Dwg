@@ -1,8 +1,7 @@
 # 🚀 Jw2Dwg — Jw_cad to AutoCAD DWG Converter
 
 A professional converter for Japanese construction drawings: convert .jww files to standard AutoCAD DWG format in one click — no Jw_cad installation required. 100% lossless, zero distortion.
-<img width="3840" height="2020" alt="image" src="https://github.com/user-attachments/assets/f5833ded-13ad-4db5-8e40-53eac4a1c106" />
-
+https://github.com/xuyutong1028/Jw2Dwg/blob/main/ScreenShot_2026-10-20_153039_768.png
 ## ✨ Key Features
 
 - 🎯 **Fast & Instant** — large-format drawings converted within seconds; simple 3-step workflow: Open → Convert → Export
